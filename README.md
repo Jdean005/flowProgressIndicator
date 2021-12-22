@@ -1,5 +1,5 @@
 # flowProgressIndicator
-<a href="https://githubsfdeploy.herokuapp.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=jdean005&repo=flowProgressIndicator&ref=force-app/main/default">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
