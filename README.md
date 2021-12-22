@@ -1,9 +1,4 @@
 # flowProgressIndicator
-<a href="https://githubsfdeploy.herokuapp.com?owner=jdean005&repo=flowProgressIndicator&ref=force-app/main/default">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
-
 
 The flow progress indicator is an admin configurable component that is targeted towards Screenflows in Salesforce Lightning Experience. This component allows admins to drag and drop progress bars onto screenflows to surface to users their current progress in a screenflow with multiple screens. The goal of this component is to enrich the user experience of end users leveraging screenflows in their daily workflows. 
 
