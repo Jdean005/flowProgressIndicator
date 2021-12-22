@@ -8,3 +8,6 @@ Example of Process Indicator in Screenflow on Account record page:
 
 Once LWC is installed in your Salesforce org simply create a screenflow and follow the prompts below:
 
+![image](https://user-images.githubusercontent.com/58155079/147144382-d612159b-9016-48ea-bf54-86c5fb2ff74a.png)
+
+
