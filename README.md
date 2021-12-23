@@ -12,4 +12,4 @@ Once LWC is installed in your Salesforce org simply create a screenflow and foll
 ![image](https://user-images.githubusercontent.com/58155079/147144382-d612159b-9016-48ea-bf54-86c5fb2ff74a.png)
 
 
-NOTE: This component is referenced in the standard LWC Library here: https://developer.salesforce.com/docs/component-library/bundle/lightning-progress-bar/example
+NOTE: This component used in this solution is referenced in the standard LWC Library here: https://developer.salesforce.com/docs/component-library/bundle/lightning-progress-bar/example
