@@ -1,0 +1,10 @@
+<template>
+    <p style="font-weight:bold;text-align:left;">
+        {displayName}
+     <span style="font-weight:bold;float:right;">
+        Progress:{currentNumber}%
+     </span>
+     <span class="slds-assistive-text">Progress:{currentNumber}%</span>
+ </p>
+     <lightning-progress-bar value={currentNumber} size="large" variant="circular"></lightning-progress-bar>
+ </template>
