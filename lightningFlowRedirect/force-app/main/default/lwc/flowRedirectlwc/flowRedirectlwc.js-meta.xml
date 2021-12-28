@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>52.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>Lightning Flow Record Redirect</masterLabel>
+    <description>This component allows users to select redirect actions in Salesforce Flow to any selected record</description>
+    <targets>
+        <target>lightning__FlowScreen</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightning__FlowScreen">
+            <property name="recId" label="Redirect Record Id" type="String" required="true" default="{!recordId}" description="Enter the variable that contains the Salesforce record ID you want to navigate to on page load" />
+            <property name="ObjectAPIName" label="Object API Name" type="String" required="true" default="Account" description="Enter the API name of the object you are navigating to"/>
+            <property name="DefaultNavigation" label="Load record on view or edit" type="String" required="true" default="view" description="acceptable input values are 'view' or 'edit' for this field."/>
+        </targetConfig>
+ </targetConfigs>
+</LightningComponentBundle>
